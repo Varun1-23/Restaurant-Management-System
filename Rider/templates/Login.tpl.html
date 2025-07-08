@@ -1,0 +1,62 @@
+<script type="text/javascript">
+    $(document).ready(function() {
+        window.scrollTo(0, 0);
+    });
+
+</script>
+
+
+<div class="loginback">
+    <div class="">
+        <br>
+        <br>
+        <br>
+
+        <div class="row">
+
+            <div class="col-md-12">
+                <div class="logincard">
+                    <form class="pad-10 pad-t5">
+                        <div class="text-center">
+                            <div class="pad-5">
+                                <img src="../images/logo.png" class="w-50">
+
+
+                                <h2> Rider Portal</h2>
+                                <p><b>Login Now</b></p>
+
+                            </div>
+                        </div>
+                        <br>
+                        <p><i class="fa fa-user"></i> Username</p>
+                        <input class="form-control" ng-model="User.UserName" placeholder="Username" />
+
+                        <p><i class="fa fa-key"></i> Password</p>
+                        <input type="password" class="form-control" ng-model="User.Password" placeholder="Password" />
+                        <br>
+
+
+                        <div class="text-center mar-t10">
+                            <button class="btn btn-success w-50" ng-click="Login()">Login</button>
+                        </div>
+                        <br>
+                        <div class="text-center mar-t10">
+                            <a class="btn btn-success w-50" ui-sref="register">Register</a>
+                        </div>
+
+                        <div class="text-center mar-t5">
+                            <div class="text-center" ng-if="loginError == true">
+                                <p>Username/Password Error !</p>
+                            </div>
+
+                            <div class="text-center" ng-if="load == true">
+                                <img src="../images/load.jpg" class="w-20" />
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

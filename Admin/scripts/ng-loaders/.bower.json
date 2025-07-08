@@ -1,0 +1,27 @@
+{
+  "name": "ng-loaders",
+  "main": "ngLoader.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jfeigel/ngLoader",
+  "authors": [
+    "James Feigel <james.feigel@gmail.com>"
+  ],
+  "description": "AngularJS Loading animation",
+  "keywords": [
+    "AngularJS",
+    "SVG",
+    "Loading"
+  ],
+  "ignore": [],
+  "license": "MIT",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "6dcb9478680622578461714a416d0d408a58e465"
+  },
+  "_source": "https://github.com/jfeigel/ngLoader.git",
+  "_target": "^1.0.0",
+  "_originalSource": "ng-loaders",
+  "_direct": true
+}

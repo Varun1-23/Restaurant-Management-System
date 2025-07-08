@@ -1,0 +1,71 @@
+<div class="container">
+    <div class="card">
+    <div class="panel">
+        <div class="panel-heading">
+
+            <div class="row">
+                <div class="col-md-2">
+                    <button class="btn btn-default fa fa-arrow-left" ng-click="goBack()" style="margin-left: -25px; margin-top: 20px;"> Go Back</button>
+                </div>
+                <div class="col-md-5">
+                    <h2 style="text-align: left">Bookings</h2>
+                </div>
+                <div class="col-md-2">
+                    <input type="date" class="form-control" ng-model="filter.FromDate">
+                </div>
+                <div class="col-md-2">
+                    <input type="date" class="form-control" ng-model="filter.ToDate">
+                </div>
+                <div class="col-md-1">
+                    <button class="btn btn-success fa fa-search" ng-click="getBookings()" style=" margin-top:5px;"></button>
+                </div>
+            </div>
+
+        </div>
+        <div class="panel-body">
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Customer Name</th> 
+                        <th>Date</th>
+                        <th>Delivery Date</th>
+                        <th>Delivery Time</th>
+                        <th>Status</th>
+                        <th>Subtotal</th>
+                        <th>Total Discount</th>
+                        <th>Grand Total</th>
+                        <th>Driver</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="obj in Bookings">
+                        <td>{{obj.Customer.Name}}</td> 
+                        <td>{{obj.Date| date : 'dd/MM/yyyy'}}</td>
+                        <td>{{obj.DeliveryDate | date : 'dd/MM/yyyy'}}</td>
+                        <td>{{obj.DeliveryTime}}</td>
+                        <td>
+
+                            <select class="form-control" ng-model="obj.StatusId" ng-options="d.Id as d.Name for d in Statuses" ng-change="changeStatus(obj)"></select>
+
+                        </td>
+                        <td>{{obj.Subtotal}}</td>
+                        <td>{{obj.TotalDiscount}}</td>
+                        <td>{{obj.GrandTotal}}</td>
+                        <td>
+
+                            <select class="form-control" ng-model="obj.DriverId" ng-options="d.Id as d.Name for d in Employees" ng-change="changeDriver(obj)"></select>
+
+                        </td>
+                        <td>
+                            <a class="btn btn-success" ng-click="viewDetail(obj)">View Details</a>
+                            <!--                            <button class="btn btn-danger" ng-click="deleteData(obj)">Delete</button>-->
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</div>

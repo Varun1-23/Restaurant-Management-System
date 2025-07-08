@@ -1,0 +1,157 @@
+<script type="text/javascript">
+    $(document).ready(function() {
+        window.scrollTo(0, 0);
+    });
+
+</script>
+
+
+
+<div class="container">
+    <div class="col-md-2">
+        <button class="btn btn-default fa fa-arrow-left" ng-click="goBack()" style="margin-left: -25px; margin-top: 20px;"> Go Back</button>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="panel ">
+
+
+
+
+        <div class="card">
+
+            <img width="100" height="100" style="border-radius: 100px;" src="{{basePath}}{{profile.Photo}}">
+            <H2>{{profile.Name}}</H2>
+            <p>Mobile No : {{profile.MobileNo}}</p>
+            <p>Email : {{profile.Email}}</p>
+            <a data-toggle="modal" data-target="#myModal" class="btn btn-success">Edit</a>
+        </div>
+
+
+        <div class="card">
+
+            <div class="panel-heading">
+                <h2>My Address List</h2>
+
+
+            </div>
+            <div class="panel-body">
+
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Address 1</th>
+                            <th>Address 2</th>
+                            <th>Pin code</th>
+                            <th>Location</th>
+                            <th>State</th>
+                            <th>District</th>
+                            <th>Options</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="obj in CustomerAddress">
+                            <td>{{obj.Address1}}</td>
+                            <td>{{obj.Address2}}</td>
+                            <td>{{obj.Pincode}}</td>
+                            <td>{{obj.Location.Name}}</td>
+                            <td>{{obj.State.Name}}</td>
+                            <td>{{obj.District.Name}}</td>
+                            <td>
+                                <a class="btn btn-success" ng-click="editAddress(obj)">Edit</a>
+                                <!--                                <a class="btn btn-success">Delete</a>-->
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <br>
+
+            <a class="btn btn-success" ng-click="addNewAddress()">Add New Address</a>
+
+        </div>
+
+    </div>
+</div>
+
+
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Update Profile</h4>
+            </div>
+            <div class="modal-body">
+
+                <div>
+                    <label>Full Name</label>
+                    <input type="text" ng-model="profile.Name" class="form-control">
+                    <br>
+                    <label>Mobile No</label>
+                    <input type="text" ng-model="profile.MobileNo" class="form-control" maxlength="10">
+                    <br>
+                    <label>Email Id</label>
+                    <input type="email" ng-model="profile.Email" class="form-control">
+                    <br>
+                    <label>Photo</label>
+                    <input type="file" id="fileInput" custom-on-change="handleFileSelect">
+
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-success" ng-click="saveData()">Save</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div id="myModal2" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Save Address</h4>
+            </div>
+            <div class="modal-body">
+
+                <div>
+                    <label>State</label>
+                    <select class="form-control" ng-model="Address.StateId" ng-options="obj.Id as obj.Name for obj in States" ng-change="getDistricts()">
+                    </select>
+                    <br>
+                    <label>District</label>
+                    <select class="form-control" ng-model="Address.DistrictId" ng-options="obj.Id as obj.Name for obj in Districts" ng-change="getLocations()">
+                    </select>
+                    <br>
+                    <label>Location</label>
+                    <select class="form-control" ng-model="Address.LocationId" ng-options="obj.Id as obj.Name for obj in Locations">
+                    </select>
+                    <br>
+                    <label>Address Line 1</label>
+                    <textarea rows="2" type="text" ng-model="Address.Address1" class="form-control"></textarea>
+                    <br>
+                    <label>Address Line 2</label>
+                    <textarea rows="2" type="text" ng-model="Address.Address2" class="form-control"></textarea>
+                    <br>
+                    <label>Pin Code</label>
+                    <input ng-model="Address.Pincode" class="form-control">
+                    <br>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-success" ng-click="saveAddress()">Save</button>
+            </div>
+        </div>
+
+    </div>
+</div>

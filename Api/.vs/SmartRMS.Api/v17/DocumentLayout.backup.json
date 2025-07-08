@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\dtos\\tokeninfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\dtos\\tokeninfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\controllers\\drivercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.model\\smartrmsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|solutionrelative:smartrms.model\\smartrmsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\dtos\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\dtos\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\dtos\\restaurantdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\dtos\\restaurantdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.model\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|solutionrelative:smartrms.model\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_VARUN_R_DOWNLOADS_RESTAURANT_MANAGEMENT__2__RESTAURANT_MANAGEMENT_API_DATA_SMARTRMSDB.MDF/True/SqlTable/dbo.Restaurants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.model\\migrations\\202505041949285_addrejectionreasontorestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|solutionrelative:smartrms.model\\migrations\\202505041949285_addrejectionreasontorestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.model\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|solutionrelative:smartrms.model\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.model\\driverwallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275066BB-4C2E-4F9B-827D-D835FEC4B009}|SmartRMS.Model\\SmartRMS.Model.csproj|solutionrelative:smartrms.model\\driverwallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\dtos\\bookingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\dtos\\bookingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\smartrms.api\\controllers\\bookingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFCCE71-76B0-4CEB-B045-3DADB135D7C3}|SmartRMS.Api\\SmartRMS.Api.csproj|solutionrelative:smartrms.api\\controllers\\bookingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenInfoDto.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Dtos\\TokenInfoDto.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Dtos\\TokenInfoDto.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Dtos\\TokenInfoDto.cs",
+              "RelativeToolTip": "SmartRMS.Api\\Dtos\\TokenInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:50:16.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202505041949285_AddRejectionReasonToRestaurant.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\Migrations\\202505041949285_AddRejectionReasonToRestaurant.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Model\\Migrations\\202505041949285_AddRejectionReasonToRestaurant.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\Migrations\\202505041949285_AddRejectionReasonToRestaurant.cs",
+              "RelativeToolTip": "SmartRMS.Model\\Migrations\\202505041949285_AddRejectionReasonToRestaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:49:33.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Restaurants.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_VARUN_R_DOWNLOADS_RESTAURANT_MANAGEMENT__2__RESTAURANT_MANAGEMENT_API_DATA_SMARTRMSDB.MDF/True/SqlTable/dbo.Restaurants.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_VARUN_R_DOWNLOADS_RESTAURANT_MANAGEMENT__2__RESTAURANT_MANAGEMENT_API_DATA_SMARTRMSDB.MDF/True/SqlTable/dbo.Restaurants.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-04T20:29:57.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantDtos.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Dtos\\RestaurantDtos.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Dtos\\RestaurantDtos.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Dtos\\RestaurantDtos.cs",
+              "RelativeToolTip": "SmartRMS.Api\\Dtos\\RestaurantDtos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:43:29.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\Restaurant.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Model\\Restaurant.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\Restaurant.cs",
+              "RelativeToolTip": "SmartRMS.Model\\Restaurant.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:42:23.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "SmartRMS.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:59:14.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Controllers\\RestaurantController.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "SmartRMS.Api\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:52:53.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "SmartRMS.Api\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAD0DAAAAAAAAAAAAAEoDAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:27:54.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SMARTRMSDB.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\SMARTRMSDB.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Model\\SMARTRMSDB.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\SMARTRMSDB.cs",
+              "RelativeToolTip": "SmartRMS.Model\\SMARTRMSDB.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:10:55.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingDtos.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Dtos\\BookingDtos.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Dtos\\BookingDtos.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Dtos\\BookingDtos.cs",
+              "RelativeToolTip": "SmartRMS.Api\\Dtos\\BookingDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:10:42.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverController.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\DriverController.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Controllers\\DriverController.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\DriverController.cs",
+              "RelativeToolTip": "SmartRMS.Api\\Controllers\\DriverController.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAANcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:00:51.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DriverDto.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Dtos\\DriverDto.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Dtos\\DriverDto.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Dtos\\DriverDto.cs",
+              "RelativeToolTip": "SmartRMS.Api\\Dtos\\DriverDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:56:56.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Web.config",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Web.config",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Web.config",
+              "RelativeToolTip": "SmartRMS.Api\\Web.config",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFQAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-04T15:57:25.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\Driver.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Model\\Driver.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\Driver.cs",
+              "RelativeToolTip": "SmartRMS.Model\\Driver.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:57:14.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DriverWallet.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\DriverWallet.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Model\\DriverWallet.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Model\\DriverWallet.cs",
+              "RelativeToolTip": "SmartRMS.Model\\DriverWallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:09:20.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingDetailsController.cs",
+              "DocumentMoniker": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\BookingDetailsController.cs",
+              "RelativeDocumentMoniker": "SmartRMS.Api\\Controllers\\BookingDetailsController.cs",
+              "ToolTip": "D:\\Restaurant_Management (2)\\Restaurant_Management\\Api\\SmartRMS.Api\\Controllers\\BookingDetailsController.cs",
+              "RelativeToolTip": "SmartRMS.Api\\Controllers\\BookingDetailsController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:01:12.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

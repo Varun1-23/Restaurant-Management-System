@@ -1,0 +1,38 @@
+<div class="container">
+    <div class="card">
+        <div class="panel ">
+
+            <div class="row">
+                <div class="col-md-2">
+                    <button class="btn btn-default fa fa-arrow-left" ng-click="goBack()" style="margin-left: -25px; margin-top: 20px;"> Go Back</button>
+                </div>
+                <div class="col-md-10">
+                    <h2 style="text-align: left">My Cuisine Bookings</h2>
+                </div>
+            </div>
+
+
+            <div class="panel-body">
+
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Restaurant</th>
+                            <th>Date</th>
+                            <th>Time</th>
+                            <th>Cuisine</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="obj in Bookings">
+                            <td>{{obj.Restaurant.Name}}</td>
+                            <td>{{obj.Date | date : "dd/MM/yyyy"}}</td>
+                            <td>{{obj.Time}}</td>
+                            <td>{{obj.Cuisine.Name}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

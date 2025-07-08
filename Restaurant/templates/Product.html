@@ -1,0 +1,83 @@
+<div class="container">
+    <div class="col-md-2">
+        <button class="btn btn-info" ng-click="goBack()" style="margin-left: -20px; margin-top: 0px;"> Go Back</button>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h2>Product</h2>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-3">
+                    <label>Product Name</label>
+                    <input type="text" ng-model="addData.Name" class="form-control">
+                </div>
+                <div class="col-md-3">
+                    <label>Photo</label>
+                    <input type="file" id="fileInput" custom-on-change="handleFileSelect">
+                </div>
+                <div class="col-md-3">
+                    <label>Description</label>
+                    <textarea class="form-control" ng-model="addData.Description" rows="5" cols="5"></textarea>
+                </div>
+            </div>
+
+            <div class="row" style="margin-top: 15px;">
+             
+                <div class="col-md-3">
+                    <label>List Of Categories</label>
+                    <select class="form-control" ng-model="addData.CategoryId" ng-options="obj.Id as obj.Name for obj in Categories">
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <label>Price</label>
+                    <input type="number" ng-model="addData.Price" class="form-control">
+                </div>
+                <div class="col-md-3">
+                    <label>Offer Price</label>
+                    <input type="number" ng-model="addData.OfferPrice" class="form-control">
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 text-right" style="margin-top: 15px;">
+                    <button class="btn btn-success" ng-click="saveData()">Save</button>
+                </div>
+            </div>
+
+            <hr>
+            <h3>List Of Products</h3>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Product Name</th>
+                        <th>Photo</th>
+                        <th>Description</th>
+                        <th>Category</th> 
+                        <th>Price</th>
+                        <th>Offer Price</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="obj in Products">
+                        <td>{{obj.Name}}</td>
+                        <td> <img src="{{basePath}}{{obj.Photo}}" style="width: 50px; height: 50px;"></td>
+                        <td>{{obj.Description}}</td>
+                        <td>{{obj.Category.Name}}</td> 
+                        <td>{{obj.Price}}</td>
+                        <td>{{obj.OfferPrice}}</td>
+                        <td>
+                            <button class="btn btn-success" ng-click="editData(obj)">Edit</button><button class="btn btn-danger" ng-click="deleteData(obj)">Delete</button>
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

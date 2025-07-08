@@ -1,0 +1,60 @@
+<div class="container">
+    <div class="card">
+
+    <div class="panel">
+        <div class="panel-heading">
+            <div class="row">
+                <div class="col-md-2">
+                    <button class="btn btn-default fa fa-arrow-left" ng-click="goBack()" style="margin-left: -25px; margin-top: 20px;"> Go Back</button>
+                </div>
+                <div class="col-md-5">
+                    <h2 style="text-align: left">Bills</h2>
+                </div>
+                <div class="col-md-2">
+                    <input type="date" class="form-control" ng-model="filter.FromDate">
+                </div>
+                <div class="col-md-2">
+                    <input type="date" class="form-control" ng-model="filter.ToDate">
+                </div>
+                <div class="col-md-1">
+                    <button class="btn btn-success fa fa-search" ng-click="getBookings()" style=" margin-top:5px;"></button>
+                </div>
+            </div>
+        </div>
+        <div class="panel-body">
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Customer Name</th> 
+                        <th>Date</th>
+                        <th>Delivery Date</th>
+                        <!-- <th>Delivery Time</th> -->
+                        <th>Status</th>
+                        <th>Subtotal</th>
+                        <th>Total Discount</th>
+                        <th>Grand Total</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="obj in Bookings">
+                        <td>{{obj.Customer.Name}}</td> 
+                        <td>{{obj.Date| date : 'dd/MM/yyyy'}}</td>
+                        <td>{{obj.DeliveryDate | date : 'dd/MM/yyyy'}}</td>
+                        <!-- <td>{{obj.DeliveryTime}}</td> -->
+                        <td>{{obj.Status.Name}}</td>
+                        <td>{{obj.Subtotal}}</td>
+                        <td>{{obj.TotalDiscount}}</td>
+                        <td>{{obj.GrandTotal}}</td>
+                        <td>
+                            <a class="btn btn-success" ng-click="viewDetail(obj)">View Details</a>
+                            <!--                            <button class="btn btn-danger" ng-click="deleteData(obj)">Delete</button>-->
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</div>

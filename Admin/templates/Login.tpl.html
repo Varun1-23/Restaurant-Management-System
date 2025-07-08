@@ -1,0 +1,58 @@
+<script type="text/javascript">
+    $(document).ready(function() {
+        window.scrollTo(0, 0);
+    });
+
+</script>
+
+
+<div class="loginback">
+    <div class="">
+        <br>
+        <br>
+        <br>
+
+        <div class="row">
+
+            <div class="col-md-4 col-md-offset-4 ">
+                <div class="logincard">
+                    <form class="pad-10 pad-t5">
+                        <div class="text-center">
+                            <div class="pad-5">
+                                <img src="../images/logo.png" class="w-50">
+                                <br>
+                                <br>
+                                <h2> Admin Portal</h2>
+                                <p><b>Login Now</b></p>
+                                <br>
+                            </div>
+                        </div>
+                        <br>
+                        <p><i class="fa fa-user"></i> Username</p>
+                        <input class="form-control" ng-model="User.UserName" placeholder="Username" />
+                        <br>
+                        <p><i class="fa fa-key"></i> Password</p>
+                        <input type="password" class="form-control" ng-model="User.Password" placeholder="Password" />
+                        <br>
+
+
+                        <div class="text-center mar-t10">
+                            <button class="btn btn-success w-50" ng-click="Login()">Login</button>
+                        </div>
+
+                        <div class="text-center mar-t5">
+                            <div class="text-center" ng-if="loginError == true">
+                                <p>Username/Password Error !</p>
+                            </div>
+
+                            <div class="text-center" ng-if="load == true">
+                                <img src="../images/load.jpg" class="w-20" />
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

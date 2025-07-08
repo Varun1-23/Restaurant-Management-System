@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html ng-app="ainapp" lang="en">
+
+<head>
+    <title>Resto Nest</title>
+    <link rel="icon" href="images/fav.png">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="" />
+
+    <script type="application/x-javascript">
+        addEventListener("load", function() {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+
+    </script>
+
+    <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link href="css/style.css" rel='stylesheet' type='text/css' />
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="scripts/StartRating/jk-rating-stars.min.css" rel="stylesheet" />
+    <link href="css/toastr.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+</head>
+
+<body style="overflow-x: hidden">
+
+    <div ui-view=""> </div>
+
+    <script src="scripts/jquery-2.2.3.min.js"></script>
+    <script src="scripts/angular/angular.min.js"></script>
+    <script src="scripts/bootstrap.js"></script>
+    <script src="scripts/ui-bootstrap-tpls-2.5.0.min.js"></script>
+    <script src="scripts/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="scripts/toastr.js"></script>
+    <script src="scripts/ng-loaders/ngLoader.js"></script>
+    <script src="scripts/angular-local-storage/angular-local-storage.min.js"></script>
+    <script src="scripts/StartRating/jk-rating-stars.min.js"></script>
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+
+    <script src="app/app.js"></script>
+
+    <script src="app/directives/AuthInterceptor.js"></script>
+    <script src="app/directives/directives.js"></script>
+
+    <script src="app/services/AuthenticationService.js"></script>
+    <script src="app/services/LoginService.js"></script>
+    <script src="app/services/MainService.js"></script>
+
+    <script src="app/controllers/LoginController.js"></script>
+    <script src="app/controllers/InitController.js"></script>
+    <script src="app/controllers/HomeController.js"></script>
+    <script src="app/controllers/CategoryController.js"></script>
+    <script src="app/controllers/EmployeeController.js"></script>
+    <script src="app/controllers/ProductController.js"></script>
+    <script src="app/controllers/CustomerController.js"></script>
+    <script src="app/controllers/BookingController.js"></script>
+    <script src="app/controllers/BookingDetailsController.js"></script>
+    <script src="app/controllers/RestaurantDetailsController.js"></script>
+    <script src="app/controllers/registerController.js"></script>
+    <script src="app/controllers/RestaurantController.js"></script>
+    <script src="app/controllers/RestaurantByCatController.js"></script>
+    <script src="app/controllers/ProfileController.js"></script>
+    <script src="app/controllers/RestaurantsByDistrictController.js"></script>
+    <script src="app/controllers/RestaurantsByLocationController.js"></script>
+    <script src="app/controllers/RestaurantsByKeywordController.js"></script>
+    <script src="app/controllers/BookingSeatsController.js"></script>
+    <script src="app/controllers/MyCuisineBookingsController.js"></script>
+    <script src="app/controllers/MyReviewsController.js"></script>
+</body>
+
+</html>

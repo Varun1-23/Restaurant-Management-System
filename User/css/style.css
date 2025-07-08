@@ -1,0 +1,392 @@
+.loginback {
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.logincard {
+    background-color: white;
+    padding: 5%;
+    margin-top: 20%;
+    border-radius: 20px;
+    -webkit-box-shadow: 2px 2px 15px -1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 2px 15px -1px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 2px 15px -1px rgba(0, 0, 0, 0.75);
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.navbar-default {
+    font-family: 'Copperplate Gothic Light', 'Copperplate', serif;
+    background-color: #e70000;
+    border-color: #e70000;
+    border-radius: 0px;
+
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+/* .navbar-default .navbar-nav > li:hover{
+    border-radius: 5px;
+    background-color: white;
+} */
+.panel-success > .panel-heading {
+    color: #e70000;
+    background-color: #f0d8d8;
+    border-color: #e9c6c6;
+}
+
+.card {
+    padding: 2%;
+    margin: 1%;
+    /* border-radius: 20px; */
+    -webkit-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #ff0000;
+    ;
+    border-color: #ffffff;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #e60000;
+    border-color: #ffffff;
+}
+
+.btn-success:focus {
+    color: #fff;
+    background-color: #e60000;
+    border-color: #e60000;
+}
+
+.procard {
+    padding: 2%;
+    margin: 1%;
+    border-radius: 20px;
+    -webkit-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    text-align: center;
+}
+
+.procard img {
+    height: 150px;
+}
+
+
+
+.header {
+    background-color: #000;
+    color: #fff;
+    padding: 15px 0;
+}
+
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.nav .login-btn {
+    background-color: #f89d0f;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Hero Section */
+.hero {
+    margin-top: -20px;
+    background-color: #f8e4c4;
+    display: flex;
+    align-items: center;
+    padding: 50px 0;
+}
+
+
+
+/* .hero-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #00000087;
+} */
+
+
+.hero-text h1 {
+    font-size: 2.5rem;
+}
+
+.hero-text .highlight {
+    color: #f89d0f;
+}
+
+.hero-text p {
+    margin: 20px 0;
+}
+
+
+.hero-image img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 15px;
+}
+
+
+
+/* Footer */
+.footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Categories Section */
+/* .categories-section {
+    
+    margin: 40px auto;
+    text-align: left;
+    padding: 20px;
+} */
+
+.section-heading {
+    text-align: left;
+    margin-top: 50px;
+    color: black;
+}
+
+
+.localities {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    justify-items: center;
+}
+
+.locality-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 200px;
+    text-align: left;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+}
+
+.locality-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.locality-name {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #222;
+    margin: 0 0 10px;
+}
+
+.places {
+    font-size: 1rem;
+    color: #555;
+    margin: 0;
+}
+
+/* "See More" Card */
+.see-more {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #333;
+}
+
+.container-place {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.heading {
+    /* font-size: 2rem; */
+    /* font-weight: 500; */
+    margin-bottom: 30px;
+    color: #222;
+}
+
+
+.banner {
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 60vh;
+    padding-top: 20vh;
+}
+
+
+.navbar-default {
+    margin-bottom: 0px;
+}
+
+.hero-text {
+    color: white;
+    text-align: center;
+    margin-right: 150px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.card {
+    border: 1px solid #ccc;
+    /* border-radius: 10px; */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    text-align: center;
+    margin: 2%;
+    background-color: white;
+}
+
+/* .w-100 {
+    width: 100%;
+    height: 200px;
+    
+} */
+.card-image {
+    height: 200px;
+    /* Fixed height for the image */
+    width: 100%;
+    /* Ensures the image spans the full width of the card */
+    object-fit: cover;
+    /* Ensures the image covers the space without distortion */
+    border-top-left-radius: 15px;
+    /* Rounded corners for the top of the image */
+    border-top-right-radius: 15px;
+    /* Rounded corners for the top of the image */
+    display: block;
+    /* Removes any extra space below the image */
+}
+
+.card:hover {
+    transform: scale(0.95);
+    /* Enlarges the card */
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    /* Adds a deeper shadow */
+}
+
+/* .container2 {
+    margin-left: 5%;
+    margin-right: 5%;
+} */
+
+.container2 {
+    margin-left: 10%;
+    /* Increased from 5% to 10% */
+    margin-right: 10%;
+    /* Increased from 5% to 10% */
+    padding: 20px;
+    /* Adds internal space inside the container */
+    max-width: 1200px;
+    /* Optional: Limits the container's width */
+    margin: 0 auto;
+    /* Centers the container horizontally */
+}
+
+.filtercontainer {
+    margin-left: 10%;
+    /* Increased from 5% to 10% */
+    margin-right: 10%;
+    /* Increased from 5% to 10% */
+    padding: 20px;
+    /* Adds internal space inside the container */
+    max-width: 1200px;
+    /* Optional: Limits the container's width */
+    margin: 0 auto;
+    /* Centers the container horizontally */
+
+}
+
+.col-md-3 {
+    margin-bottom: 20px;
+    /* Adds space below each card */
+}
+
+.card {
+    margin: 10px;
+    /* Adds space around each card */
+    border-radius: 15px;
+    /* Rounded corners for the card */
+    overflow: hidden;
+}
+
+.container3 {
+    margin-left: 10%;
+    /* Increased from 5% to 10% */
+    margin-right: 10%;
+    /* Increased from 5% to 10% */
+    padding: 20px;
+    /* Adds internal space inside the container */
+    max-width: 1200px;
+    /* Optional: Limits the container's width */
+    margin: 0 auto;
+    /* Centers the container horizontally */
+}
+
+.input-group-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bi-search {
+    cursor: pointer;
+    font-size: 2rem;
+    /* Adjust size if needed */
+
+    margin-top: 5px;
+}
+
+.search {
+    margin-right: -5px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.cusbanner img {
+    height: 40vh;
+    border-radius: 50px;
+}
+
+.bannercustext {
+    text-align: center
+}

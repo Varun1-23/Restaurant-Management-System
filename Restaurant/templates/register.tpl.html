@@ -1,0 +1,124 @@
+<script type="text/javascript">
+    $(document).ready(function () {
+        window.scrollTo(0, 0);
+    });
+</script>
+
+<div class="loginback">
+    <div class="row">
+        <div class="col-md-12"> <!-- Wider card -->
+            <div class="logincard">
+                <form class="pad-5"> <!-- Reduced padding -->
+                    <div class="text-center">
+                        <img src="../images/logo.png" class="w-30"> <!-- Smaller logo -->
+                        <h2>Register</h2>
+                    </div>
+                    <br>
+                    <div class="row"> <!-- Split form into two columns -->
+                        <div class="col-md-6">
+                            <label>Restaurant Name</label>
+                            <input type="text" ng-model="addData.Name" class="form-control">
+                        </div>
+                        <div class="col-md-6">
+                            <label>Mobile No</label>
+                            <input type="text" ng-model="addData.MobileNo" class="form-control" maxlength="10">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label>Email Id</label>
+                            <input type="email" ng-model="addData.Email" class="form-control">
+                        </div>                    
+                        <div class="col-md-6">
+                            <label>State</label>
+                            <select class="form-control" ng-model="addData.StateId"
+                                ng-options="obj.Id as obj.Name for obj in States" ng-change="getDistricts()">
+                            </select>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label>District</label>
+                            <select class="form-control" ng-model="addData.DistrictId"
+                                ng-options="obj.Id as obj.Name for obj in Districts" ng-change="getLocations()">
+                            </select>
+                        </div>      
+                        <div class="col-md-6">
+                            <label>Location</label>
+                            <select class="form-control" ng-model="addData.LocationId"
+                                ng-options="obj.Id as obj.Name for obj in Locations">
+                            </select>
+                        </div>                
+                    
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label>Password</label>
+                            <input type="password" ng-model="addData.Password" class="form-control">
+
+                        </div>
+                        <div class="col-md-6">
+                            <label>Type</label>
+                            <input type="text" ng-model="addData.type" class="form-control">
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label>Photo</label>
+                            <input type="file" id="fileInput" custom-on-change="handleFileSelect">
+                        </div>   
+                        <div class="col-md-6">
+                            <label>License</label>
+                            <input type="file" id="fileInput" custom-on-change="handleFileSelect2">
+                        </div>   
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label>Description</label>
+                            <textarea rows="2" type="text" ng-model="addData.Description"
+                                class="form-control"></textarea>
+                        </div>
+                        
+                    </div>
+                    <br>
+                    <div class="text-center mar-t5">
+                        <button class="btn btn-success w-50" ng-click="saveData()">Register Now</button>
+                    </div>
+                    <div class="text-center mar-t5">
+                        <div ng-if="load == true">
+                            <img src="../images/load.jpg" class="w-20" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br><br><br>
+
+
+
+
+
+
+<div id="myModal2" class="modal fade modal-medium">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title"> Enter OTP </h4>
+            </div>
+            <div class="modal-body text-center">
+                <input ng-model="OTP" class="form-control">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" ng-click="saveData2()"> Confirm </button>
+                <button type="button" class="btn btn-default" data-dismiss="modal"> Cancel </button>
+            </div>
+        </div>
+    </div>
+</div>

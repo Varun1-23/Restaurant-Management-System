@@ -1,0 +1,75 @@
+.loginback {
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.logincard {
+    background-color: white;
+    padding: 5%;
+    margin-top: 20%;
+    border-radius: 20px;
+    -webkit-box-shadow: 2px 2px 15px -1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 2px 15px -1px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 2px 15px -1px rgba(0, 0, 0, 0.75);
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.navbar-default {
+    background-color: #e70000;
+    border-color: #e70000;
+    border-radius: 0px;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.panel-success > .panel-heading {
+    color: #e70000;
+    background-color: #f0d8d8;
+    border-color: #e9c6c6;
+}
+
+.card {
+    padding: 2%;
+    margin: 1%;
+    border-radius: 20px;
+    -webkit-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #ff0000;
+    ;
+    border-color: #ffffff;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #e60000;
+    ;
+    border-color: #ffffff;
+}
+
+.btn-success:focus {
+    color: #fff;
+    background-color: #21a7e4;
+    border-color: #37a8ec;
+}
+
+
+.containercus {
+    padding: 2%;
+    padding-top: 0%;
+}

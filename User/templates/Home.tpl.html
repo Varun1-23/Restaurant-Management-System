@@ -1,0 +1,98 @@
+<script type="text/javascript">
+    $(document).ready(function() {
+        window.scrollTo(0, 0);
+    });
+
+</script>
+
+<br>
+
+<div class="container">
+    <div class="row cusbanner">
+        <div class="col-md-3">
+            <img src="../images/b1.jpg" class="w-100">
+        </div>
+        <div class="col-md-3">
+            <img src="../images/b2.png" class="w-100">
+        </div>
+        <div class="col-md-3">
+            <img src="../images/b3.jpg" class="w-100">
+        </div>
+        <div class="col-md-3">
+            <img src="../images/b4.jpg" class="w-100">
+        </div>
+    </div>
+</div>
+
+<div class="bannercustext">
+    <h1 style="font-size: 40px">Welcome to <b style="color: red">Resto Nest</b></h1>
+    <p style="font-size: 20px">Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.</p>
+</div>
+
+<!--
+<section class="banner" id="home">
+    <div class="container hero-content">
+        <div class="hero-text">
+            <h1>Welcome to <b style="color: red">Resto Nest</b></h1>
+            <p>Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.</p>
+        </div>
+    </div>
+</section>
+-->
+<br>
+
+<hr>
+
+<div class="categories-section ">
+    <div class="container">
+        <h2 class="section-heading">Restaurants</h2>
+
+        <div class="row">
+            <div class="col-md-3" ng-repeat="obj in Restaurants | limitTo:12" ng-click="goToRestaurantView(obj)">
+                <div class="card">
+                    <img src="{{basePath}}{{obj.Photo}}" alt="Restaurant Image" class="card-image ">
+                    <div class="card-content" style="padding: 5px 15px 10px;">
+                        <p><b>{{obj.Name}}</b></p>
+                        <p>Location: {{obj.Location.Name}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<hr>
+
+<div class="categories-section ">
+    <div class=" container">
+        <h2 class="section-heading">Categories</h2>
+        <div class="row">
+            <div class="col-md-3" ng-repeat="obj in Categories| limitTo:12" ng-click="goToRestaurantsByCat(obj)">
+                <div class="card">
+                    <img src="{{basePath}}{{obj.Photo}}" alt="{{obj.Name}}" class="card-image">
+                    <div class="card-content">
+                        <h3>{{obj.Name}}</h3>
+                        <p>Explore our menu options and discover new favorites.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br>
+<br>
+<hr>
+
+
+<div class="container-place">
+    <h1 class="section-heading">Popular Cities</h1>
+    <div class="row">
+        <div class="col-md-2" ng-repeat="d in Districts| limitTo:12" ng-click="goToRestaurantsByDistrict(d)">
+            <div class="card text-center">
+                <p style="margin-top: 10px;"><b>{{d.Name}}</b></p>
+            </div>
+        </div>
+    </div>
+</div>

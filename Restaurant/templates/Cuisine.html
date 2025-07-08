@@ -1,0 +1,55 @@
+<div class="container">
+    <div class="col-md-2">
+        <button class="btn btn-info" ng-click="goBack()" style="margin-left: -20px; margin-top: 0px;"> Go Back</button>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h2>Cuisine</h2>
+        </div>
+        <div class="panel-body">
+
+            <div class="row">
+                <div class="col-md-3">
+                    <label>Name</label>
+                    <input type="text" ng-model="addData.Name" class="form-control">
+                </div>
+                <div class="col-md-3">
+                    <label>No Of People</label>
+                    <input type="number" ng-model="addData.NoOfPeople" class="form-control">
+                </div>
+                <div class="col-md-3">
+                    <br>
+                    <button class="btn btn-success" ng-click="SaveCuisine()"> Save</button>
+                </div>
+            </div>
+
+            <hr>
+
+            <h3>List Of Cuisines</h3>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>No Of People</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="obj in Cuisines">
+                        <td>{{obj.Name}}</td>
+                        <td>{{obj.NoOfPeople}}</td>
+                        <td>
+                            <button class="btn btn-success" ng-click="editData(obj)"> Edit</button>
+                            <button class="btn btn-danger" ng-click="deleteData(obj)"> Delete</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+</div>

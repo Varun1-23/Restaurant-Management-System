@@ -1,0 +1,67 @@
+<div class="container2">
+
+    <div class="row">
+        <div class="col-md-2">
+            <button class="btn btn-default fa fa-arrow-left" ng-click="goBack()"> Go Back</button>
+        </div>
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-4">
+            <input class="form-control" ng-model="query[queryBy]" placeholder="Search name, Locaton, ...">
+        </div>
+    </div>
+
+    <hr>
+    <div class="row">
+        <div class="col-md-3" ng-repeat="obj in Restaurants | filter:query" ng-click="goToRestaurantTables(obj)">
+            <div class="card">
+                <img src="{{basePath}}{{obj.Photo}}" alt="Restaurant Image" class="card-image w-100">
+                <div class="card-content" style="padding: 15px;">
+                    <p><b>{{obj.Name}}</b></p>
+                    <p>Location: {{obj.Location.Name}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+<div id="viewModal" class="modal fade">
+    <div class="modal-dialog ">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Choose Cuisine</h4>
+            </div>
+            <div class="modal-body">
+
+                <div class="row">
+                    <div class="col-md-3" ng-repeat="t in Tables">
+                        <div class="card" ng-click="selectTable(t)">
+                            <p><b>{{t.Name}}</b></p>
+                            <p>{{t.NoOfPeople}}</p>
+                            <div ng-if="t.IsSelected" style="height: 5px;background-color: red"></div>
+                            <div ng-if="!t.IsSelected" style="height: 5px"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <label>Date</label>
+                <input class="form-control" type="date" ng-model="book.Date">
+
+                <br>
+                <label>Approx Time</label>
+                <input class="form-control" ng-model="book.Time">
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" ng-click="bookCuisine()">Book Now </button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,130 @@
+<head>
+    <style>
+        hr {
+            border: 0;
+            border-top: 2px solid #333;
+            margin: 20px 0;
+        }
+
+    </style>
+
+
+</head>
+<div class="col-md-2">
+    <button class="btn btn-info" ng-click="goBack()" style="margin-left: -10px; margin-top: 0px;"> Go Back</button>
+</div>
+<br>
+<br>
+<br>
+<div class="row">
+    <div class="col-md-8" style="border-right: 1px solid lightgrey">
+        <div class="row">
+
+            <div class="col-md-2" ng-repeat="c in Categories">
+
+                <div class="procard" style="cursor: pointer" ng-click="getProducts(c)">
+                    <img src="{{basePath}}{{c.Photo}}" style="width: 130px; height: 100px;">
+                    <p>{{c.Name}}</p>
+                    <p><del>{{c.Price}}</del> {{c.OfferPrice}}</p>
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+        <hr />
+
+        <div class="row">
+
+            <div class="col-md-2" ng-repeat="p in Products">
+
+                <div class="procard" style="border-right: 1px solid lightgrey" ng-click="addToBill(p)">
+                    <img src="{{basePath}}{{p.Photo}}" style="width: 130px; height: 100px;">
+                    <p>{{p.Name}}</p>
+                    <p><del>{{p.Price}}</del> {{p.OfferPrice}}</p>
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-4">
+
+        <div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <label>Customer</label>
+                    <input class="form-control" ng-model="Bill.CustomerName">
+                </div>
+                <div class="col-md-6">
+                    <label>Customer Mob</label>
+                    <input class="form-control" ng-model="Bill.CustomerMob" maxlength="10">
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col-md-6">
+                    <label>Customer Email</label>
+                    <input type="email" class="form-control" ng-model="Bill.CustomerEmail">
+                </div>
+            </div>
+            <hr>
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Total</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="det in Bill.BookingDetails">
+                        <td>{{det.Product.Name}}</td>
+                        <td>{{det.Quantity}}</td>
+                        <td>{{det.OfferPrice}}</td>
+                        <td>{{det.Total}}</td>
+                        <td>
+                            <button class="btn btn-sm btn-default" ng-click="addQty(det)"><i class="fa fa-plus"></i></button>
+                            <button class="btn btn-sm btn-default" ng-click="minusQty(det)"><i class="fa fa-minus"></i></button>
+                            <button class="btn btn-sm btn-default" ng-click="deleteItem(det)"><i class="fa fa-trash"></i></button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <div class="col-md-6">
+                <p><b>Sub Total : {{Bill.Subtotal}}</b></p>
+                <label>Discount</label>
+                <input class="form-control" ng-model="Bill.TotalDiscount" type="number" ng-change="applydiscount()">
+            </div>
+            <div class="col-md-6">
+                <h2><b>Grand Total : {{Bill.GrandTotal}}</b></h2>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="text-center">
+            <button class="btn btn-success" ng-click="SaveBooking()">Save Bill</button>
+            <button class="btn btn-default" ng-click="init()">Refresh</button>
+        </div>
+
+
+    </div>
+
+</div>

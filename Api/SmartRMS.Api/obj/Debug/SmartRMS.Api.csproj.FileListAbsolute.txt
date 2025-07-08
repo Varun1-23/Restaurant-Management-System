@@ -1,0 +1,412 @@
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.dll.config
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.pdb
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.exe
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.exe.config
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.rsp
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.exe
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.exe.config
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.rsp
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.AppContext.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Console.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Globalization.Calendars.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.Compression.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Net.Http.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Net.Sockets.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.ValueTuple.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XPath.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.exe
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.exe.config
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.rsp
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\VBCSCompiler.exe
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.SqlServer.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Buffers.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Memory.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Net.Http.Formatting.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Numerics.Vectors.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Threading.Tasks.Extensions.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Cors.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Helpers.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.Cors.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.WebHost.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Mvc.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Razor.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Deployment.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Razor.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.pdb
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.dll.config
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.SqlServer.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.pdb
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Buffers.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Memory.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Net.Http.Formatting.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Numerics.Vectors.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Threading.Tasks.Extensions.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.Cors.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.WebHost.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Razor.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Deployment.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Razor.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Helpers.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Mvc.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.csproj.AssemblyReference.cache
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.csproj.CoreCompileInputs.cache
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.E40A0DE3.Up2Date
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.dll
+D:\Restaurant management new\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.pdb
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.dll.config
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.pdb
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.exe
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.exe.config
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.rsp
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.exe
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.exe.config
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.rsp
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Managed.Core.targets
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.AppContext.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Console.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Globalization.Calendars.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.Compression.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Net.Http.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Net.Sockets.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.ValueTuple.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XmlDocument.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XPath.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.exe
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.exe.config
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.rsp
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\VBCSCompiler.exe
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.SqlServer.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.Web.Infrastructure.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Buffers.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Memory.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Net.Http.Formatting.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Numerics.Vectors.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Threading.Tasks.Extensions.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Cors.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Helpers.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.Cors.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.WebHost.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Mvc.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Razor.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Deployment.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Razor.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.pdb
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.dll.config
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.SqlServer.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.pdb
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Buffers.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Memory.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Net.Http.Formatting.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Numerics.Vectors.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Threading.Tasks.Extensions.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.Cors.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.WebHost.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Razor.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Deployment.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Razor.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Helpers.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Mvc.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.csproj.AssemblyReference.cache
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.csproj.CoreCompileInputs.cache
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.E40A0DE3.Up2Date
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.dll
+E:\college-projects\Source\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.pdb
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.dll.config
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.pdb
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.exe
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.exe.config
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.rsp
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.exe
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.exe.config
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.rsp
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.AppContext.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Console.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Net.Http.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.exe
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.exe.config
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.rsp
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Buffers.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Memory.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Numerics.Vectors.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Cors.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Helpers.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Mvc.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Razor.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Razor.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.pdb
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.dll.config
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Buffers.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Memory.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Numerics.Vectors.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.Cors.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Razor.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Razor.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Helpers.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Mvc.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.csproj.AssemblyReference.cache
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.csproj.CoreCompileInputs.cache
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.E40A0DE3.Up2Date
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.dll
+C:\Users\Varun R\Downloads\Restaurant_Management\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.pdb
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.dll.config
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Api.pdb
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.exe
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.exe.config
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csc.rsp
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.exe
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.exe.config
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\csi.rsp
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.AppContext.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Console.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Net.Http.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.exe
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.exe.config
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\vbc.rsp
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Buffers.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Memory.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Numerics.Vectors.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Cors.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Helpers.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Mvc.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Razor.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Razor.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.pdb
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\SmartRMS.Model.dll.config
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Buffers.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Memory.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Numerics.Vectors.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.Cors.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Razor.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Webpages.Razor.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Helpers.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\System.Web.Mvc.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\Newtonsoft.Json.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.csproj.AssemblyReference.cache
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.csproj.CoreCompileInputs.cache
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.E40A0DE3.Up2Date
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.dll
+C:\Users\Varun R\Downloads\Restaurant_Management (2)\Restaurant_Management\Api\SmartRMS.Api\obj\Debug\SmartRMS.Api.pdb

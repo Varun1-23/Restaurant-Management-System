@@ -1,0 +1,124 @@
+<div class="containercus">
+    <div class="col-md-2">
+        <button class="btn btn-info" ng-click="goBack()" style="margin-left: -15px; margin-top: 0px;"> Go Back</button>
+    </div>
+    <br>
+    <br>
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h2>Restaurants</h2>
+        </div>
+        <div class="panel-body">
+
+
+            <div class="row">
+                <div class="col-md-3">
+                    <label>Restaurant Name</label>
+                    <input type="text" ng-model="addData.Name" class="form-control">
+                </div>
+                <div class="col-md-3">
+                    <label>Mobile No</label>
+                    <input type="text" ng-model="addData.MobileNo" class="form-control" maxlength="10">
+                </div>
+                <div class="col-md-3">
+                    <label>Email</label>
+                    <input type="email" ng-model="addData.Email" class="form-control">
+                </div>
+                <div class="col-md-3">
+                    <label>Type</label>
+                    <input type="text" ng-model="addData.Type" class="form-control">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3" style="margin-top: 25px;">
+                    <label>Description</label>
+                    <textarea ng-model="addData.Description" class="form-control" rows="5" cols="5"></textarea>
+                </div>
+                <div class="col-md-3" style="margin-top: 25px;">
+                    <label>State</label>
+                    <select class="form-control" ng-model="addData.StateId"  ng-change="getDistricts()" ng-options="obj.Id as obj.Name for obj in States">
+
+                    </select>
+                </div>
+                <div class="col-md-3" style="margin-top: 25px;">
+                    <label>District</label>
+                    <select class="form-control" ng-model="addData.DistrictId" ng-change="getLocations()" ng-options="obj.Id as obj.Name for obj in Districts">
+
+                    </select>
+                </div>
+                <div class="col-md-3" style="margin-top: 25px;">
+                    <label>Location</label>
+                    <select class="form-control" ng-model="addData.LocationId"  ng-options="obj.Id as obj.Name for obj in Locations">
+                    </select>
+                </div>
+                <!-- <div class="col-md-2" style="margin-top: 25px;">
+                    <label>Cost</label>
+                    <input type="text" ng-model="addData.Cost" class="form-control">
+                </div> -->
+                <div class="col-md-3" style="margin-top: 25px;">
+                    <label>Password</label>
+                    <input type="text" ng-model="addData.Password" class="form-control">
+                </div>
+                <div class="col-md-2" style="margin-top: 25px;">
+                    <label>Photo</label>
+                    <input type="file" id="fileInput" custom-on-change="handleFileSelect">
+                </div>
+                <div class="col-md-2" style="margin-top: 25px;">
+                    <label>License</label>
+                    <input type="file" id="fileInput" custom-on-change="handleLicenseSelect">
+                </div>
+                <div class="col-md-2" style="margin-top: 30px;">
+                    <button class="btn btn-success" ng-click="saveData()">Save</button>
+                    <button class="btn btn-default" ng-click="init()">Refresh</button>
+                </div>
+            </div>
+
+            <hr>
+
+
+            <h3>List Of Restaurants</h3>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Restaurant Name</th>
+                        <th>Photo</th>
+                        <th>Mobile No</th>
+                        <th>Email</th>
+                        <th>Description</th>
+                        <th>State</th>
+                        <th>District</th>
+                        <th>Location</th>
+                        <!-- <th>Cost</th> -->
+                        <th>Type</th>
+                        <th>License</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="obj in Restaurants">
+                        <td>{{obj.Name}}</td>
+                        <td><img src="{{basePath}}{{obj.Photo}}" style="width: 50px; height: 50px;"></td>
+                        <td>{{obj.MobileNo}}</td>
+                        <td>{{obj.Email}}</td>
+                        <td>{{obj.Description}}</td>
+                        <td>{{obj.State.Name}}</td>
+                        <td>{{obj.District.Name}}</td>
+                        <td>{{obj.Location.Name}}</td>
+                        <!-- <td>{{obj.Cost}}</td> -->
+                        <td>{{obj.Type}}</td>
+                        <td><a href="{{basePath}}{{obj.License}}" target="_blank"><img src="{{basePath}}{{obj.License}}" style="width: 50px; height: 50px;"></a></td>
+                        <td>
+                            <button class="btn btn-success" ng-click="editData(obj)">Edit</button>
+                            <button class="btn btn-danger" ng-click="deleteData(obj)">Delete</button>
+                            <button ng-if="obj.IsApproved == false" class="btn btn-danger" ng-click="RejectRestaurant(obj.Id)">Reject</button>
+                            <button ng-if="obj.IsApproved == false" class="btn btn-info" ng-click="Approve(obj)">Approve</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+</div>

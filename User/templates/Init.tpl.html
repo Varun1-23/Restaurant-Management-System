@@ -1,0 +1,84 @@
+<script type="text/javascript">
+    $(document).ready(function() {
+        window.scrollTo(0, 0);
+    });
+
+</script>
+
+<head>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+
+</head>
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#" style="margin-left: -90px;"><b>RestoNest</b></a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right " style="margin-right:-170px">
+                <li><a href="" ui-sref="home">Home</a></li>
+                <li><a href="" ui-sref="Restaurant">Restaurants</a></li>
+                <li><a href="" ui-sref="Category">Categories</a></li>
+                <li><a href="" ui-sref="BookingSeats">Dineout</a></li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Choose Your Area
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li ng-repeat="l in Locations | limitTo : 15" ng-click="goToRestaurantsByLocation(l)"><a href="">{{l.Name }}</a></li>
+                    </ul>
+                </li>
+
+                <li ng-if="!IsLoggedIn"><a href="" ui-sref="register">Register</a></li>
+                <li ng-if="!IsLoggedIn"><a href="" ui-sref="login">Login</a></li>
+
+                <li class="dropdown" ng-if="IsLoggedIn">
+                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{TokenInfo.Name}} <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="" ui-sref="profile">Profile</a></li>
+                        <li><a href="" ui-sref="Booking">My Orders</a></li>
+                        <li><a href="" ui-sref="MyCuisineBookings">My Cuisine Bookings</a></li>
+                        <li><a href="" ui-sref="MyReviews">My Reviews</a></li>
+                        <li><a href="" ui-sref="changePassword">Change Password</a></li>
+                        <li><a href="" ng-click="logOut()">Logout</a></li>
+                    </ul>
+                </li>
+                <div class="input-group rounded" style="margin-top: 8px; cursor: pointer;">
+                    <input type="search" class="form-control " style="width:200px; " placeholder="Search" ng-model="filter.Keyword" />
+                    <span class="input-group-text border-0 bg-white " style="margin-right: 0px;">
+                        <button class="btn btn-default fa fa-search" style="height: 35px;" ng-click="goToRestaurantsByKeyword()"></button>
+                    </span>
+
+
+
+                </div>
+
+
+
+            </ul>
+        </div>
+
+
+    </div>
+</nav>
+
+
+
+
+<div ui-view="" style="min-height: 90vh" class="bodydash"></div>
+
+
+
+<footer class="footer">
+    <div class="container">
+        <p>© 2025 RestoNest. All rights reserved.</p>
+    </div>
+</footer>

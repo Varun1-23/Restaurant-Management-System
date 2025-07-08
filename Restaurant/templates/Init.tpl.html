@@ -1,0 +1,58 @@
+<script type="text/javascript">
+    $(document).ready(function() {
+        window.scrollTo(0, 0);
+    });
+
+</script>
+
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Welcome {{TokenInfo.Name}}</a>
+        </div>
+        
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="" ui-sref="home">Home</a></li>
+                <li><a href="" ui-sref="pos">POS</a></li>
+                <li><a href="" ui-sref="Booking">Booking</a></li>
+                <li><a href="" ui-sref="CuisineBookings">Table Booking</a></li>
+                <li><a href="" ui-sref="Bill">Bills</a></li>
+                <li><a href="" ui-sref="MyReviews">My Reviews</a></li>
+
+                <li class="dropdown">
+                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Masters <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+
+                        <li><a href="" ui-sref="Category">Categories</a></li>
+                        <li><a href="" ui-sref="Customer">Customer</a></li>
+                        <li><a href="" ui-sref="Employee">Employee</a></li>
+                        <li><a href="" ui-sref="Product">Product</a></li>
+                        <li><a href="" ui-sref="Cuisine">Cuisine</a></li>
+                        <li><a href="" ui-sref="drivers">Drivers</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="" ng-click="logOut()">Logout</a></li>
+
+
+
+            </ul>
+        </div>
+
+
+    </div>
+</nav>
+
+
+
+
+<div ui-view="" class="bodydash"></div>

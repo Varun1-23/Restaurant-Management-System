@@ -1,0 +1,22 @@
+<div class="categories-section ">
+    <div class="col-md-2">
+        <button class="btn btn-default fa fa-arrow-left" ng-click="goBack()" style="margin-left: 40px; margin-top: 20px;"> Go Back</button>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class=" container3">
+        <!-- <h2 class="section-heading">Categories</h2> -->
+        <div class="row">
+            <div class="col-md-3" ng-repeat="obj in Categories" ng-click="goToRestaurantsByCat(obj)">
+                <div class="card">
+                    <img src="{{basePath}}{{obj.Photo}}" alt="{{obj.Name}}" class="card-image">
+                    <div class="card-content">
+                        <h3>{{obj.Name}}</h3>
+                        <p>Explore our menu options and discover new favorites.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

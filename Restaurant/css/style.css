@@ -1,0 +1,119 @@
+.loginback {
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center; /* Center the card vertically */
+    justify-content: center; /* Center the card horizontally */
+    padding: 20px; /* Add some padding */
+}
+
+.logincard {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20%;
+    border-radius: 20px;
+    -webkit-box-shadow: 2px 2px 15px -1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 2px 15px -1px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 2px 15px -1px rgba(0, 0, 0, 0.75);
+    width: 100%; /* Full width of the column */
+    max-width: 1200px; /* Limit maximum width */
+    width: 100%;
+    margin: 0 auto; /* Center the card */
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-30 {
+    width: 30%;
+}
+.form-control {
+    margin-bottom: 10px; /* Reduce spacing between form elements */
+}
+.text-center {
+    text-align: center;
+}
+
+.mar-t5 {
+    margin-top: 5px;
+}
+
+.pad-5 {
+    padding: 5px;
+}
+
+.navbar-default {
+    background-color: #e70000;
+    border-color: #e70000;
+    border-radius: 0px;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.panel-success > .panel-heading {
+    color: #e70000;
+    background-color: #f0d8d8;
+    border-color: #e9c6c6;
+}
+
+.card {
+    padding: 2%;
+    margin: 1%;
+    border-radius: 20px;
+    -webkit-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #ff0000;
+    ;
+    border-color: #ffffff;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #e60000;
+    ;
+    border-color: #ffffff;
+}
+
+.btn-success:focus {
+    color: #fff;
+    background-color: #21a7e4;
+    border-color: #37a8ec;
+}
+.procard:hover {
+transform:scale(1.05);
+/* Enlarges the card */
+box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+/* Adds a deeper shadow */
+}
+.procard {
+    padding: 2%;
+    margin: 1%;
+   border-radius: 5px;
+    -webkit-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    box-shadow: 1px 1px 15px -8px rgba(0, 0, 0, 0.75);
+    text-align: center;
+}
+.procard img{
+    height: 150px;
+}
+
+
+
+
+
+

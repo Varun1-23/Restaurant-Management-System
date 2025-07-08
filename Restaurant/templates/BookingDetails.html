@@ -1,0 +1,100 @@
+<div class="container">
+    <div class="col-md-2">
+        <button class="btn btn-info" ng-click="goBack()" style="margin-left: -20px; margin-top: 0px;"> Go Back</button>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="card">
+
+        <div class="panel">
+            <div class="panel-heading">
+                <h2>Booking Details</h2>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-md-6 text-right" style="border-right: 1px solid lightgrey">
+                    <h3>Customer : {{BookingDetail.Customer.Name}} - {{BookingDetail.Customer.MobileNo}}</h3>
+                    <p>Date : {{BookingDetail.Date | date : 'dd/MM/yyyy'}}</p>
+                    <p>Delivery Time : {{BookingDetail.DeliveryTime}}</p>
+                    <h2 style="color: red">{{BookingDetail.Status.Name}}</h2>
+                    <p>Delivery Address : {{BookingDetail.CustomerAddress.Address1}} {{BookingDetail.CustomerAddress.Address2}} Pincode : {{BookingDetail.CustomerAddress.Pincode}} {{BookingDetail.CustomerAddress.LocationName}}</p>
+                </div>
+                <div class="col-md-6 text-left">
+                    <br>
+                    <br>
+                    <br>
+                    <p>Sub Total : {{BookingDetail.Subtotal}}</p>
+                    <p>Total Discount : {{BookingDetail.TotalDiscount}}</p>
+                    <p>Grand Total : {{BookingDetail.GrandTotal}}</p>
+                    <br>
+                    <div>
+                        <label>Change Status</label>
+                        <select class="form-control w-50" ng-change="cancelBooking()" ng-options="s.Id as s.Name for s in StatusList" ng-model="BookingDetail.StatusId"></select>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="panel-body">
+
+                <h1>Items</h1>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Item</th>
+                            <th>Product</th>
+                            <th>Quantity</th>
+                            <th>Price</th>
+                            <th>Offer Price</th>
+                            <th>Total</th>
+                            <th>Remarks</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="obj in BookingDetail.BookingDetails">
+                            <td>
+                                <img width="100" height="100" style="border-radius: 100px;" src="{{basePath}}{{obj.Product.Photo}}">
+                            </td>
+                            <td>{{obj.Product.Name}}</td>
+                            <td>{{obj.Quantity}}</td>
+                            <td>{{obj.Price}}</td>
+                            <td>{{obj.OfferPrice}}</td>
+                            <td>{{obj.Total}}</td>
+                            <td>{{obj.Remarks}}</td>
+
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Confirm Cancel Booking</h4>
+            </div>
+            <div class="modal-body">
+
+                <div>
+                    <h2>Click Confirm To Proceed!</h2>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-success" ng-click="cancelBookingConfirm()">Confirm</button>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,97 @@
+<div class="container">
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h2 style="color: white;">Bills</h2>
+        </div>
+        <div class="panel-body">
+            <!--
+            <div class="row">
+                <div class="col-md-3">
+                    <label>Customer Name</label>
+                    <select type="text" ng-model="addData.CustomerId" class="form-control" ng-options="obj.Id as obj.Name for obj in Customers">
+
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <label>Restaurant</label>
+                    <select class="form-control" ng-model="addData.RestaurantId" ng-options="obj.Id as obj.Name for obj in Restaurants">
+                       
+                    </select>
+                </div>
+                <div class="col-md-3">
+                    <label>Date</label>
+                    <input type="date" ng-model="addData.Date" class="form-control">
+                </div>
+                <div class="col-md-3">
+                    <label>Delivery Date</label>
+                    <input type="date" ng-model="addData.DeliveryDate" class="form-control">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3" style="margin-top: 5px;">
+                    <label>Delivery Time</label>
+                    <input type="time" ng-model="addData.DeliveryTime" class="form-control">
+                </div>
+                <div class="col-md-3" style="margin-top: 5px;">
+                    <label>Status</label>
+                    <select class="form-control" ng-model="addData.StatusId" ng-options="obj.Id as obj.Name for obj in Statuses">
+                       
+                    </select>
+                </div>
+                <div class="col-md-3" style="margin-top: 5px;">
+                    <label>Subtotal</label>
+                    <input type="text" ng-model="addData.Subtotal" class="form-control" >
+                </div>
+                <div class="col-md-3" style="margin-top: 5px;">
+                    <label>Total Discount</label>
+                    <input type="text" ng-model="addData.TotalDiscount" class="form-control" >
+                </div>
+            
+                <div class="col-md-3" style="margin-top: 5px;">
+                    <label>Grand Total</label>
+                    <input type="text" ng-model="addData.GrandTotal" class="form-control" >
+                </div>
+                <div class="col-md-3" style="margin-top: 10px;">
+                    <br>
+                    <button class="btn btn-success" ng-click="saveData()">Save</button>
+                </div>
+            </div>
+            <hr>
+            <h3>List of Bookings</h3>
+-->
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Customer Name</th>
+                        <th>Restaurant</th>
+                        <th>Date</th>
+                        <th>Delivery Date</th>
+                        <th>Delivery Time</th>
+                        <th>Status</th>
+                        <th>Subtotal</th>
+                        <th>Total Discount</th>
+                        <th>Grand Total</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="obj in Bookings">
+                        <td>{{obj.Customer.Name}}</td>
+                        <td>{{obj.Restaurant.Name}}</td>
+                        <td>{{obj.Date}}</td>
+                        <td>{{obj.DeliveryDate}}</td>
+                        <td>{{obj.DeliveryTime}}</td>
+                        <td>{{obj.Status.Name}}</td>
+                        <td>{{obj.Subtotal}}</td>
+                        <td>{{obj.TotalDiscount}}</td>
+                        <td>{{obj.GrandTotal}}</td>
+                        <td>
+                            <a class="btn btn-success" ui-sref="BookingDetails">View Details</a>
+                            <!--                            <button class="btn btn-danger" ng-click="deleteData(obj)">Delete</button>-->
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

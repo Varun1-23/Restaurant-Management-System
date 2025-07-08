@@ -1,0 +1,48 @@
+<div class="container">
+    <div class="col-md-2">
+        <button class="btn btn-info" ng-click="goBack()" style="margin-left: -140px; margin-top: 0px;"> Go Back</button>
+    </div>
+    <br>
+
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h2>Status</h2>
+        </div>
+        <div class="panel-body">
+
+            <div class="row">
+                <div class="col-md-3">
+                    <label>Status</label>
+                    <input type="text"  ng-model="addData.Name" class="form-control">
+                </div>
+                <div class="col-md-3">
+                    <br>
+                    <button class="btn btn-success" ng-click="saveData()"> Save</button>
+                </div>
+            </div>
+
+            <hr>
+
+            <h3>List Of Status</h3>
+            <table class="table table-bordered">
+                <thead>
+                    <tr >
+                        <th>Status</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr  ng-repeat="obj in Statuses">
+                        <td>{{obj.Name}}</td>                        
+                        <td><button class="btn btn-succcess"  ng-click="editData(obj)"> Edit</button> <button class="btn btn-danger" ng-click="deleteData(obj)"> Delete</button></td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+
+        </div>
+    </div>
+
+
+</div>
